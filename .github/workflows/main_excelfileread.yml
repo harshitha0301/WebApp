@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ExcelFileRead'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1496D7D64170416A9F8C6E41D9268CBD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_17C7029A47F44F57B16AE13265CAFDF5 }}
